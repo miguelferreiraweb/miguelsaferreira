@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelsaferreira" alt="miguelsaferreira" /></a> </p>
 
-- 🔭 I’m currently working on **a Tic-Tac-Toe app built in React**
-
-- 🌱 I’m currently learning **Next.js**
-
 - 💬 Ask me about **Javascript, React, Typescript**
 
 - 📫 How to reach me **miguelferreira.web@gmail.com**
