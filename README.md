@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Miguel Ferreira</h1>
-<h3 align="center">A software engineer from Portugal with a strong background on the Frontend</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelsaferreira" alt="miguelsaferreira" /></a> </p>
 
